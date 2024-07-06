@@ -1,0 +1,20 @@
+# swap files
+*.swp
+
+# hex files
+*.hex
+
+# Output files
+*.o
+source/*.o
+header/*.o
+
+# Dependencies
+*.d
+source/*.d
+header/*.d
+
+# link files
+*.ld
+source/*.ld
+header/*.ld
